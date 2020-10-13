@@ -2198,13 +2198,13 @@ function get_theme_starter_content() {
 			'recent-comments'    => array(
 				'recent-comments',
 				array(
-					'title' => _x( 'Recent Comments', 'Theme starter content' ),
+					'title' => _x( '最新评论', 'Theme starter content' ),
 				),
 			),
 			'recent-posts'       => array(
 				'recent-posts',
 				array(
-					'title' => _x( 'Recent Posts', 'Theme starter content' ),
+					'title' => _x( '最近发布', 'Theme starter content' ),
 				),
 			),
 			'search'             => array(
